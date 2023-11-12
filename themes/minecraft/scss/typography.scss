@@ -11,22 +11,28 @@ h1, h2, h3, h4, h5, h6 {
 
 .title {
     text-decoration: none;
-    color: black;
-    h1 {
-        color: black;
+    color: rgb(0,0,0);
+    
+    h1 
+    {
+        color: rgb(0,0,0);
     }
-    p {
-        color: black;
+    
+    p 
+    {
+        color: rgb(0,0,0);
     }
-    a {
-        color: black;
+    
+    a 
+    {
+        color: rgb(0,0,0);
     }
 }
 
 .nav a {
     text-decoration: none;
     font-family: $main-font;
-    color: white;
+    color: rgb(255,255,255);
 }
 
 .nav a:hover {

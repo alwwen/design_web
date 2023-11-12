@@ -6435,22 +6435,22 @@ h1, h2, h3, h4, h5, h6 {
 
 .title {
   text-decoration: none;
-  color: black;
+  color: rgb(0, 0, 0);
 }
 .title h1 {
-  color: black;
+  color: rgb(0, 0, 0);
 }
 .title p {
-  color: black;
+  color: rgb(0, 0, 0);
 }
 .title a {
-  color: black;
+  color: rgb(0, 0, 0);
 }
 
 .nav a {
   text-decoration: none;
   font-family: "Playfair Display", serif;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .nav a:hover {
