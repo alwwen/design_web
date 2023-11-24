@@ -1,0 +1,54 @@
+.landinpage {
+    display: grid;
+    gap: 1rem 2rem;
+}
+
+.landinpage h1 {
+    grid-column: span 3;
+    text-align: center;
+}
+
+.box {
+    border-radius: 25px;
+    border: 2px solid #fff;
+    padding: 1rem;
+    box-shadow: 10px 5px 5px rgb(0, 0, 0);
+    transition: all 0.3s ease-in-out;
+}
+
+.box:hover {
+    transform: scale(1.03, 1.03);
+}
+
+.single-technology {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.tech-menu {
+    width: 30%;
+}
+
+.tech-content {
+    width: 60%;
+}
+
+.column-1 {
+    grid-column: span 1;
+}
+
+.column-2 {
+    grid-column: span 2;
+}
+
+.column-3 {
+    grid-column: span 3;
+}
+
+@media (max-width: 700px) {
+    .tech-menu {
+        display: none;
+    }
+}
