@@ -24,7 +24,7 @@ Resultat
 -----------------------
 
 INET:
-<img class="full-img" src="./../assets/img/inet.png" alt="inet">
+<img class="full-img" src="./../assets/img/inet.png" alt="Inet">
 
 KOMPLETT:
 <img class="full-img" src="./../assets/img/komplett.png" alt="Komplett">
@@ -32,7 +32,7 @@ KOMPLETT:
 WEBHALLEN:
 <img class="full-img" src="./../assets/img/webhallen.png" alt="Webhallen">
 
-<iframe class="excel" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRqLlQofEB7omuLjdAL11NrNt2euc8XLxeJepvqIDQLXSzvo_WA0ZiNAqkUFBhTCO7RCbPyJ29oqQcN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe title="Excel" class="excel" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRqLlQofEB7omuLjdAL11NrNt2euc8XLxeJepvqIDQLXSzvo_WA0ZiNAqkUFBhTCO7RCbPyJ29oqQcN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 När vi räknar tiden det tar för att ladda in hemsidan så är det ett snitt på 3 olika laddningar av webbplatsen så den får korrekt data.
 
@@ -46,7 +46,7 @@ Enligt Google Page Speed så kan alla sidor förbättra sig genom att inte ladda
 Referenser
 -----------------------
 
-Vi har använt oss av <a href="https://pagespeed.web.dev/"></a> för att testa alla webplatsernas prestanda, tillgänglighet, bästa metoder och SEO. Sedan har vi använt webbläsarens egna inbyggda networks tab för att kolla laddningstiderna, hur många paket och den totala storleken på paketen som laddades in.
+Vi har använt oss av <a href="https://pagespeed.web.dev/" aria-label="PageSpeed website"></a> för att testa alla webplatsernas prestanda, tillgänglighet, bästa metoder och SEO. Sedan har vi använt webbläsarens egna inbyggda networks tab för att kolla laddningstiderna, hur många paket och den totala storleken på paketen som laddades in.
 
 
 Övrigt

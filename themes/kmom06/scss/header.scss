@@ -1,0 +1,27 @@
+.site-header {
+    display: flex;
+    align-items: start;
+}
+
+.logo {
+/* Assuming you want the logo to be on the right */
+    margin-right: auto; /* This will push the logo to the right */
+}
+
+.title {
+    margin-right: auto; /* This will push the title to the left */
+}
+
+@media screen and (max-width: 768px) {
+    .site-header {
+        flex-direction: column;
+    }
+    
+    .logo {
+        margin-right: 0;
+    }
+    
+    .title {
+        margin-right: 0;
+    }
+}

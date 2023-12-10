@@ -1,0 +1,62 @@
+p {
+    font-family: $main-font;
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: $font-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $header-font;
+    text-decoration: none;
+    color: $font-color;
+}
+
+.title {
+    text-decoration: none;
+    color: $font-color;
+    
+    h1 
+    {
+        color: $font-color;
+    }
+    
+    p 
+    {
+        color: $font-color;
+    }
+    
+    a 
+    {
+        color: $font-color;
+    }
+}
+
+.nav a {
+    text-decoration: none;
+    font-family: $main-font;
+    color: $font-color;
+}
+
+.nav a:hover {
+    color: $accent-color;
+}
+
+.tech-menu h3 a {
+    color: $accent-color;
+}
+
+.box h1 a {
+    color: $accent-color;
+}
+
+a {
+    color: $accent-color;
+}
+
+.main > h1 {
+    border-bottom: 1px solid $font-color;
+}
+
+.landinpage > h1 {
+    border-bottom: 1px solid $font-color;
+}
